@@ -6,6 +6,6 @@
 	flex-wrap:wrap;
 }
 .item{
-	width:100px;
-	height:100px;
+	width:30%;
+	margin:10px;
 }
